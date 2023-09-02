@@ -195,7 +195,7 @@ def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
 os.system("xdg-open https://www.facebook.com/RJ.King.Ok.Bro")
 #------------------[ LOGO-LAKNAT ]-----------------#
-logo =("""          \33[1;96m[1;96m____ \33[1;96m[1;96m                       \33[1;96m[1;96m____          
+logo =("""             \33[1;96m
 
 
    ░█▀▀▀█ ░█─░█ ─█▀▀█ ░█▄─░█ ▀▀█▀▀ ░█▀▀▀█ 
@@ -213,7 +213,7 @@ logo =("""          \33[1;96m[1;96m____ \33[1;96m[1;96m                       \3
   TOOLS         :  PAID
 
   Version       :  V-1
-
+  
   WhatsApp      :  013108682**
   
 ===============================================\33[1;96m""")
